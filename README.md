@@ -1,18 +1,19 @@
 # CountryServiceFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
-The web application privde the countries code information. The information is presented in the google map. 
-left hand side the shows the countries codes and on clicking them a marker withh generates on the clicked country which shows other information about country. 
+
+# Functions of Web application
+The web application privde the countries code information. The information is presented in the google map. Left hand side panels shows the countries codes of all the countries and by clicking on any one of the country, a marker will generates over google map which shows information about country when hover over marker. 
 
 ## Code Running Dependencies
-Require google Map API:
+# Require google Map API:
 link: https://developers.google.com/maps/documentation/javascript/get-api-key
 
-Another Api for extracting the latitugde and lopngitude:
+# Another Api for extracting the latitugde and lopngitude:
 Geoapify:
 https://apidocs.geoapify.com/playground/geocoding#reverse (get key)
 
-Module or Dependencies required:
+# Module or Dependencies required:
 
 rxjs-compat 
 command to install: npm i rxjs-compat
