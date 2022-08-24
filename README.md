@@ -1,6 +1,27 @@
 # CountryServiceFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+The web application privde the countries code information. The information is presented in the google map. 
+left hand side the shows the countries codes and on clicking them a marker withh generates on the clicked country which shows other information about country. 
+
+## Code Running Dependencies
+Require google Map API:
+link: https://developers.google.com/maps/documentation/javascript/get-api-key
+
+Another Api for extracting the latitugde and lopngitude:
+Geoapify:
+https://apidocs.geoapify.com/playground/geocoding#reverse (get key)
+
+Module or Dependencies required:
+
+rxjs-compat 
+command to install: npm i rxjs-compat
+
+@google Map loader:
+npm i @googlemaps/js-api-loader
+
+
+
 
 ## Development server
 
@@ -26,4 +47,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Code Running Dependencies
+
