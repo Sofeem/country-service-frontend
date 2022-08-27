@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
 # Functions of Web application
-The web application privde the countries code information. The information is presented in the google map. Left hand side panels shows the countries codes of all the countries and by clicking on any one of the country, a marker will generates over google map which shows information about country when hover over marker. 
+The web application provides the countries code information. The information is presented in the google map. Left hand side panels shows the countries codes of all the countries and by clicking on any one of the country, a marker will generates over google map which shows information about country when hover over marker. 
 
 ## Code Running Dependencies
 # Require google Map API:
